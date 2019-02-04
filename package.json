@@ -23,6 +23,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "viz.js": "^1.8.0"
+    "deep-assign": "^3.0.0",
+    "viz.js": "^2.1.2"
   }
 }
